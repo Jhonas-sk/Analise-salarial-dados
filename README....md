@@ -53,6 +53,6 @@ analise-salarial-dados/
 
 ## 👤 Autor
 
-**Jhonas Stankowitsch Martins**  
-Analista de Dados Jr | Python • Power BI • Pandas  
+**Jhonas Stankowitsch**  
+Analista de Dados | Python • Power BI • Pandas  
 Salvador, BA — Brasil
